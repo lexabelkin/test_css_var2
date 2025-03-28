@@ -1,0 +1,7 @@
+@import url('spisok.css');
+
+#fio{
+	 text-decoration: underline;
+	 color: red;
+	 text-align: right; 
+}
